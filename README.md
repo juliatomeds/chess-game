@@ -15,5 +15,5 @@ git remote add origin https://github.com/acenelio/chess-system-java.git
 git pull origin main
 git add .
 git commit -m "Project created"
-git push -u origin master
+git push --set-upstream origin main
 ```
